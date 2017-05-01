@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Patterns.Sample
+namespace AbstractFactoryPattern
 {
-    public class Class1
+    public class Wildbeest : Herbivore
     {
+
     }
 }
